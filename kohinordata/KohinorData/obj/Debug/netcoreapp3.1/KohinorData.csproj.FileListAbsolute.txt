@@ -1,0 +1,10 @@
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\bin\Debug\netcoreapp3.1\KohinorData.deps.json
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\bin\Debug\netcoreapp3.1\KohinorData.dll
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\bin\Debug\netcoreapp3.1\KohinorData.pdb
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.csproj.AssemblyReference.cache
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.AssemblyInfoInputs.cache
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.AssemblyInfo.cs
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.csproj.CoreCompileInputs.cache
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.dll
+E:\Kohinor\Projects, 2022\kohinordata\KohinorData\obj\Debug\netcoreapp3.1\KohinorData.pdb
