@@ -1,0 +1,14 @@
+[
+  {
+    "outputFile": "wwwroot/css/StyleSheet.css",
+    "inputFile": "wwwroot/css/StyleSheet.scss",
+    "sourceMap": false,
+    "useNodeSass": false
+  },
+  {
+    "outputFile": "wwwroot/css/Custom.css",
+    "inputFile": "wwwroot/css/Custom.scss",
+    "sourceMap": false,
+    "useNodeSass": false
+  }
+]
