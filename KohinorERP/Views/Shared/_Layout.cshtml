@@ -745,12 +745,13 @@
 
     <!--Script for creating Menu -->
     <script language="javascript" type="text/javascript">
-
-
+	    
+	<!-- funci[on para renderizar los datos de la vista -->
         $(document).ready(function () {
             CreateMenu();
         });
 
+	<!-- funcion llamado ajax para poder extraer el menu de un archivo xml -->
         function CreateMenu() {
             $.ajax({
                 url: "/Home/MenuList",
@@ -766,6 +767,7 @@
             });
         }
 
+	<!-- funcion que crea el sidebar dependiendo de la longitud y los datos extraidos del xml -->
         function createMenu(menu) {
 
             $(".slideDashboard").html("<a class='side-menu__item' data-bs-toggle='slide' href=" + menu[0].url + ">" + "<i class='side-menu__icon " + menu[0].icon + "'></i> <span class='side-menu__label'>" + menu[0].nameMenu + "</span></a>");
