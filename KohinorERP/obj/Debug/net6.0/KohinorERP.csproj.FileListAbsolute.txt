@@ -1,0 +1,143 @@
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\appsettings.Development.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\appsettings.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\bundleconfig.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.staticwebassets.runtime.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.exe
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.deps.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.runtimeconfig.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.dll
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\ref\KohinorERP.dll
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.pdb
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.AssemblyReference.cache
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfoInputs.cache
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfo.cs
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.CoreCompileInputs.cache
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.MvcApplicationPartsAssemblyInfo.cache
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cache
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cs
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\staticwebassets.build.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\staticwebassets.development.json
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\bundle\KohinorERP.styles.css
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\projectbundle\KohinorERP.bundle.scp.css
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.dll
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\ref\KohinorERP.dll
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.pdb
+E:\Kohinor\Visual Studio Projects\Kohinor V2\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.genruntimeconfig.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\appsettings.Development.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\appsettings.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\bundleconfig.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.staticwebassets.runtime.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.exe
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.deps.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.runtimeconfig.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.dll
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\bin\Debug\net6.0\KohinorERP.pdb
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.AssemblyReference.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfoInputs.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfo.cs
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.CoreCompileInputs.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.MvcApplicationPartsAssemblyInfo.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cs
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\staticwebassets.build.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\staticwebassets.development.json
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\bundle\KohinorERP.styles.css
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\scopedcss\projectbundle\KohinorERP.bundle.scp.css
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.dll
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\ref\KohinorERP.dll
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.pdb
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\KohinorERP.genruntimeconfig.cache
+F:\Kohinor\VS Projects\Kohinor ERP Core\KohinorERP\KohinorERP\obj\Debug\net6.0\refint\KohinorERP.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\appsettings.Development.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\appsettings.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\bundleconfig.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.staticwebassets.runtime.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.exe
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.deps.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.runtimeconfig.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorERP.pdb
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\en-US\KohinorERP.resources.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\es-EC\KohinorERP.resources.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.AssemblyReference.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.Resources.SharedResource.en-US.resources
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.Resources.SharedResource.es-EC.resources
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.GenerateResource.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfoInputs.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.AssemblyInfo.cs
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.CoreCompileInputs.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.MvcApplicationPartsAssemblyInfo.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.RazorAssemblyInfo.cs
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\en-US\KohinorERP.resources.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\es-EC\KohinorERP.resources.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\staticwebassets.build.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\staticwebassets.development.json
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\scopedcss\bundle\KohinorERP.styles.css
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\scopedcss\projectbundle\KohinorERP.bundle.scp.css
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\refint\KohinorERP.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.pdb
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.genruntimeconfig.cache
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\ref\KohinorERP.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Dapper.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\log4net.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorData.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\KohinorData.pdb
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\obj\Debug\net6.0\KohinorERP.csproj.CopyComplete
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Azure.Core.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Azure.Identity.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Raven.Abstractions.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Raven.Client.Lightweight.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Sparrow.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\Raven.Database.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Private.ServiceModel.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win7\lib\netstandard1.3\System.Private.ServiceModel.dll
+E:\Kohinor\Projects, 2022\kohinorerpcore\KohinorERP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
