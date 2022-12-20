@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menus>
+	<menu>
+		<id>1</id>
+		<menuName>Dashboard</menuName>
+		<url>/</url>
+		<icon>fe fe-home</icon>
+	</menu>
+	<menu>
+		<id>2</id>
+		<menuName>Reports</menuName>
+		<url>/report/reports</url>
+		<icon>fe fe-file-text</icon>
+	</menu>
+</menus>

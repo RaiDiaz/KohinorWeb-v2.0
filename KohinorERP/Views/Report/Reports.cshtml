@@ -1,0 +1,93 @@
+﻿
+@using KohinorData.Models
+@model KohinorData.Models.AllModels
+@{
+	ViewData["Title"] = "Report Page";
+}
+@inject LanguageService language
+
+
+<style>
+	.tabs-menu1 ul li a {
+		
+		display: block;
+	
+		border-style: solid;
+		border-radius: 5px;
+		border-color: #00000024;
+		width: 150px;
+		height: 50px;
+		font-size: 16px;
+		text-align:center;
+		
+	}
+	.panel-tabs li{
+		padding-left:1px;
+	}
+
+	.s1 {
+		background: red;
+	}
+	.show{
+		display:block;
+	}
+</style>
+
+<div class="side-app">
+	<div class="main-container container-fluid">
+		<div class="page-header">
+			<div>
+				<h1 class="page-title">@language.Getkey("Title_Reports")</h1>
+				<ol class="breadcrumb">
+					<li class="breadcrumb-item"><a href="javascript:void(0);">@language.Getkey("Title_Home")</a></li>
+					<li class="breadcrumb-item active" aria-current="page">@language.Getkey("Title_Reports")</li>
+				</ol>
+			</div>
+			<div class="ms-auto pageheader-btn">
+				<a href="javascript:void(0);" class="btn btn-primary btn-icon text-white me-2">
+					<span>
+						<i class="fe fe-plus"></i>
+					</span> Add Account
+				</a>
+				<a href="javascript:void(0);" class="btn btn-success btn-icon text-white">
+					<span>
+						<i class="fe fe-log-in"></i>
+					</span> Export
+				</a>
+			</div>
+		</div>
+		<!-- Tabs -->
+		<div class="tabs-menu1" style="padding-bottom:5px">
+			<ul class="nav panel-tabs">
+				<li><a href="#tab1" class="active" data-bs-toggle="tab">@language.Getkey("Title_Products")</a></li>
+				<li><a href="#tab2" data-bs-toggle="tab" class="">@language.Getkey("Title_Invoices")</a></li>
+				<li><a href="#tab3" data-bs-toggle="tab" class="">Inventario</a></li>
+				<li><a href="#tab4" data-bs-toggle="tab" class="" style="display:none;">Nomina</a></li>
+				<li><a href="#tab5" data-bs-toggle="tab" class="" style="display:none;">Activos Fijos</a></li>
+				<li><a href="#tab6" data-bs-toggle="tab" class="" style="display:none;">Tab 6</a></li>
+				<li><a href="#tab7" data-bs-toggle="tab" class="" style="display:none;">Tab 7</a></li>
+				<li><a href="#tab8" data-bs-toggle="tab" class="" style="display:none;">Tab 8</a></li>
+			</ul>
+		</div>
+
+
+
+		<div class="tab-content" id="nav-tabContent">
+			
+			@await Html.PartialAsync("_InformesGerenciales.cshtml")
+
+			@await Html.PartialAsync("_InformesPuntosVentas.cshtml")
+
+			@await Html.PartialAsync("_InformesInventarios.cshtml")
+			
+			@await Html.PartialAsync("_InformesNomina.cshtml")
+
+			@await Html.PartialAsync("_InformesActivosFijos.cshtml")
+			
+		</div>
+
+
+	</div>
+</div>
+
+
